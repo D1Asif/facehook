@@ -88,48 +88,6 @@
       "createAt": "2024-02-25T06:25:58.990Z"
     },
     {
-      "id": "5360bba3-1c5e-4ca8-84b3-6af75932126c",
-      "content": "",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Saad Hasan",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-02-25T06:27:12.076Z"
-    },
-    {
-      "id": "478c7100-6701-430e-bae2-2d6eebf4443f",
-      "content": "",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Saad Hasan",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-02-25T06:29:42.901Z"
-    },
-    {
-      "id": "fabefae7-c26d-4c5b-b4e4-7c150c3cbfb4",
-      "content": "",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Saad Hasan",
-        "avatar": "uploads/avatar/avatar-1708789609571-36760872.jpeg"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-02-25T06:35:20.401Z"
-    },
-    {
       "id": "e8ef4c92-32b5-450a-a53a-8caef4032cb1",
       "content": "cvbcvcv",
       "image": null,
@@ -283,20 +241,6 @@
       "createAt": "2024-03-14T15:21:52.280Z"
     },
     {
-      "id": "28615e4f-e8da-47a6-b8e4-99e9eadac39c",
-      "content": "this is rizz",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Saad Hasan",
-        "avatar": "uploads/avatar/avatar-1710372744582-482763164.png"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-03-14T15:25:25.605Z"
-    },
-    {
       "id": "96105d95-3718-43f0-874f-087efa0bd24a",
       "content": "bhaloooo nei",
       "image": null,
@@ -365,20 +309,6 @@
       "comments": [],
       "likes": [],
       "createAt": "2024-03-15T00:03:01.346Z"
-    },
-    {
-      "id": "b958645b-ba59-420e-a275-75a83f692210",
-      "content": "image post",
-      "image": null,
-      "postType": "text",
-      "author": {
-        "id": "6fd3ed42-2275-4d5f-a436-e5a3bf586c56",
-        "name": "Saad Hasan",
-        "avatar": "uploads/avatar/avatar-1710438331810-845262499.webp"
-      },
-      "comments": [],
-      "likes": [],
-      "createAt": "2024-03-15T02:19:02.055Z"
     },
     {
       "id": "6206283a-2782-468a-84b0-743108b7e25e",
