@@ -8,7 +8,7 @@ This is a simplified version of a social media app like Facebook.
 4. Home Page: All the posts of all the users are displayed in the feed of the home page. Posts are sorted to the latest post first. User can edit/delete user's own post.
 
 ## Technologies used:
-React, React router dom, axios, react hook form etc.
+React, React router dom, axios, react hook form, vercel etc.
 
 ## How to run
 1. clone the repo into your machine
