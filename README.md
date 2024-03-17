@@ -13,4 +13,4 @@ React, React router dom, axios, react hook form, vercel etc.
 ## How to run
 1. Clone the repo into your machine.
 2. Open the terminal in the backend-server folder and run ```npm install``` and then ```npm run dev```. This will start the server in ```http://localhost:3000```. (Make sure you have npm and node installed in your machine)
-3. Then visit the website [link](https://facehook-phi.vercel.app/). You'll find the website up and running with full functionalities.
+3. Then visit the website [link](https://facehook-practice.vercel.app/). You'll find the website up and running with full functionalities.
